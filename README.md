@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="28" /> Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,postgres,docker,git,github,vscode,tailwind" />
@@ -24,18 +24,16 @@
 
 ---
 
-## 🚀 Proyectos Destacados
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" /> Proyectos Destacados
 
 | Proyecto | Descripción | Stack | Demo |
 |---|---|---|---|
 | [**PortafolioProfesional**](https://github.com/roimerbautista/PortafolioProfesional) | Mi portfolio personal como desarrollador | TypeScript, React | [Ver →](https://roimerbautista.dev) |
-| [**sothara**](https://github.com/roimerbautista/sothara) | Calidad del aire con datos reales de la NASA 🌍 | TypeScript, NASA API | En vivo |
+| [**sothara**](https://github.com/roimerbautista/sothara) | Calidad del aire con datos reales de la NASA | TypeScript, NASA API | En vivo |
 | [**incapurple**](https://github.com/roimerbautista/incapurple) | Solución tecnológica innovadora | TypeScript | Ver repo |
-| [**ElTodoProgramador**](https://github.com/roimerbautista/ElTodoProgramador) | Gestor de tareas para devs | TypeScript | Ver repo |
-
 ---
 
-## 📊 GitHub Stats
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28" /> GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=roimerbautista&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160" />
@@ -52,7 +50,7 @@
 
 ---
 
-## 🌱 Actualmente aprendiendo
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Light%20bulb/3D/light_bulb_3d.png" width="28" /> Actualmente aprendiendo
 
 ```yaml
 aprendiendo:
@@ -67,12 +65,12 @@ meta_2026:
 
 ---
 
-## 🏆 Logros
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28" /> Logros
 
-- 🔥 **968+ contribuciones** en el último año
-- 🌍 Integré datos en tiempo real de la **NASA API** en proyecto propio
-- 🛠️ **48 repositorios públicos** construyendo soluciones reales
-- 📚 Estudiante activo de **Ingeniería de Sistemas · UNC**
+- **968+ contribuciones** en el último año
+- Integré datos en tiempo real de la **NASA API** en proyecto propio
+- **48 repositorios públicos** construyendo soluciones reales
+- Estudiante activo de **Ingeniería de Sistemas · UNC**
 
 ---
 
